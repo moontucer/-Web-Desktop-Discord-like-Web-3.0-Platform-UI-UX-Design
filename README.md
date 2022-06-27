@@ -2,7 +2,7 @@
 
 
 
--   Review the project on Figma: bit.ly/3Nnz7Sm
+-   Review the project on Figma: https://bit.ly/3Nnz7Sm
 
 
 
