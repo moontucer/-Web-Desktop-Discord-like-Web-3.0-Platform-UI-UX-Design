@@ -4,7 +4,7 @@
 
 -   Review the project on Figma: https://bit.ly/3Nnz7Sm
 
-
+   
 
 -   And, here's the UX project from an outsider angle of view
 
